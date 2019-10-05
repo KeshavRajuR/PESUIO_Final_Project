@@ -6,7 +6,7 @@ The file named "header.c" is the interface file for the program.
 The file named "algorithms.c" is the file containing the algorithms.
 
 Terminal commands to run the program:
-gcc -c client.c
-gcc -c algorithms.c
-gcc client.o algorithms.o
-./a.out
+1) gcc -c client.c
+2) gcc -c algorithms.c
+3) gcc client.o algorithms.o
+4) ./a.out
